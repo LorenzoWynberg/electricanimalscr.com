@@ -1,249 +1,128 @@
-# XR Studio Website Content Structure
+# Electric Animals
 
-## HOME
+## About Electric Animals
 
-### Hero
+Electric Animals is one of the most influential electronic music platforms in Central America. Founded in Costa Rica, the brand has grown from a local festival into an internationally active cultural platform, producing large-scale festivals, curated showcases, and global collaborations across the Americas, Europe, and Asia.
 
-- **H1:** XR Studio — Production & Experience Engine
-- **Subhead:** We execute complex live experiences with precision, control, and international standards.
-- **Primary CTA:** Request a Production Call
-- **Secondary CTA:** View Our Work
-
-### Trust / Quick Proof Strip
-
-- Multi-brand production portfolio
-- Large-scale operations capability
-- End-to-end execution teams
-- Data-driven improvement loops
-
-### What We Do (service snapshot)
-
-Cards linking to Services:
-- Experience Execution
-- Technical & Stage Design
-- On-Site Operations
-- Audiovisual Production
-- Performance & Feedback
-
-### Featured Work
-
-Carousel/grid: Electric Animals, Pura Tinta Fest, Blockchain Jungle, Magflow, Sweetspot
-
-**CTA:** Explore Case Studies
-
-### How We Work (4 steps)
-
-Blueprint Review → Production Planning → Live Execution → Reporting & Optimization
-
-### Ecosystem Section (Broccoli alignment)
-
-- **Headline:** Strategy designed by Broccoli. Executed by XR Studio.
-- Short explanation + link to "Process" or "About"
-
-### CTA Footer Band
-
-- **Headline:** Execute with confidence.
-- **Button:** Contact XR Studio
+Electric Animals is defined by uncompromising production standards, meticulous artistic curation, and a long-term vision focused on quality, consistency, and cultural impact. Each event is designed as a complete sensory experience where music, visuals, sound design, and space come together with intention.
 
 ---
 
-## SERVICES (overview page)
+## Vision & Mission
 
-### Intro
+### Vision
+To position Electric Animals as a globally recognized electronic music brand representing Latin America on the world stage through world-class festivals, showcases, and cultural collaborations.
 
-XR Studio delivers execution across production, technical design, operations, and content capture.
-
-### Service blocks (each links to its own page)
-
-1. Experience Execution
-2. Technical & Stage Design
-3. On-Site Operations
-4. Audiovisual Production
-5. Performance & Feedback Loop
-
-### Industries / Use Cases
-
-- Festivals & concerts
-- Conferences & summits
-- Brand activations
-- Competitive gaming / esports
-- Cultural events & conventions
-
-### CTA
-
-Book a production consult
+### Mission
+To create unforgettable electronic music experiences through top-tier production, curated lineups, and meaningful partnerships with artists, brands, and cultural institutions, while strengthening regional creative ecosystems.
 
 ---
 
-## SERVICE DETAIL TEMPLATE (for each service)
+## Production Excellence & Perfect Track Record
 
-- **Hero:** what it is + outcomes
-- **What's included** (bullets)
-- **Typical deliverables** (plans, run-of-show, tech riders, staffing plan, etc.)
-- **How we measure success** (KPIs)
-- **Related case studies** (2–3 links)
-- **CTA**
+Since its inception, Electric Animals has maintained a **100% perfect operational record with zero event cancellations**.
+
+In a country like Costa Rica—where weather conditions, permitting processes, and logistical challenges often affect live events—this flawless track record is a major differentiator. It reflects disciplined planning, strong institutional relationships, and an uncompromising commitment to delivering every announced experience. This consistency has earned long-term trust from international artists, partners, sponsors, and audiences.
 
 ---
 
-## WORK (Case Studies index)
+## Sustainability & Venue Excellence
 
-- **Filter chips:** Festivals, Conferences, Culture/Conventions, Esports, Content
-- Grid of case studies (brand tiles)
-- **CTA:** Let's talk
+All Electric Animals events are **carbon neutral**, integrating responsible production practices and environmental impact mitigation as a core pillar of operations.
 
----
-
-## PROCESS
-
-### Intro
-
-A disciplined execution framework built for scale.
-
-### 4-step workflow (detailed)
-
-1. Blueprint Review
-2. Production Planning
-3. Live Execution & Control
-4. Reporting & Continuous Improvement
-
-### What clients get
-
-- Clear accountability
-- Operational visibility
-- Risk reduction
-- Consistent standards
-
-### CTA
-
-Request a Production Call
+All flagship events take place at the **Costa Rica Convention Center**, the most prestigious and technologically advanced venue in Central America, ensuring international standards in infrastructure, safety, logistics, and production quality.
 
 ---
 
-## ABOUT
+## Signature Events
 
-### Who we are
+### Oneiro Festival
 
-XR Studio is the execution engine for high-impact experiences across the region.
+Oneiro Festival is Electric Animals' most immersive and concept-driven experience. It blends electronic music, large-scale audiovisual production, and narrative-driven stage design to create a dreamlike, multi-sensory environment beyond the traditional festival format.
 
-### Our role in the ecosystem
-
-- Broccoli designs the system
-- XR Studio executes the experience
-
-### Values / standards
-
-- Precision
-- Reliability
-- Safety & compliance mindset
-- Continuous improvement
-
-### Team / capabilities (high level)
-
-Production, technical, operations, audiovisual
+The most recent edition of Oneiro Festival was officially branded with **Esencial Costa Rica**, reinforcing its cultural relevance and international positioning as a festival that represents Costa Rican quality, creativity, sustainability, and global standards.
 
 ---
 
-## CONTACT
+### Electric Animals Fest
 
-### Contact form
-
-Fields: Name, company, project type, dates, city/venue, expected attendance, scope
-
-### Quick selectors
-
-- Festival / Concert
-- Conference / Summit
-- Convention
-- Brand Activation
-- Esports
-
-### Response promise (copy)
-
-We'll reply with next steps and a discovery checklist.
+Electric Animals Fest is the brand's core festival and the foundation of its international recognition. It brings together top-tier international headliners, regional talent, and local artists in a large-scale celebration of electronic music culture, setting the benchmark for electronic music festivals in Central America.
 
 ---
 
-## CASE STUDIES
+### Electric Animals Halloween Fest
 
-### Electric Animals
-
-**Category:** Festival Production & Live Experience Execution
-
-**Summary:** Electric Animals is a flagship electronic music festival experience executed through a high-control production model designed for scale, consistency, and premium attendee experience. XR Studio leads end-to-end execution across technical planning, vendor coordination, onsite operations, and live-show control.
-
-**XR Studio scope:**
-- Full production execution and venue operations
-- Technical coordination (audio, lighting, video) and run-of-show control
-- Artist/backstage operations and flow management
-- On-site incident response and operational decision-making
-- Audiovisual capture strategy to convert the event into long-term brand assets
-
-**Outcome focus:** predictable execution, premium production standards, scalable operating model
+Electric Animals Halloween Fest is one of the most anticipated electronic music events in the region. With darker aesthetics, immersive visuals, and high-energy performances, it delivers a unique thematic experience while maintaining Electric Animals' signature production standards.
 
 ---
 
-### Pura Tinta Fest
+## International Expansion & Global Showcases
 
-**Category:** Convention Production, Floor Operations & Brand Experience
+Electric Animals has successfully expanded beyond Costa Rica, positioning itself as a traveling brand with international reach.
 
-**Summary:** Pura Tinta Fest is a large-scale cultural convention that demands operational precision across complex attendee flows, exhibitor needs, and continuous programming. XR Studio executes the event as a controlled system—balancing experience, safety, vendor logistics, and content capture.
-
-**XR Studio scope:**
-- Convention production and show-floor operations
-- Vendor/exhibitor coordination and logistics
-- Stage/program execution and timing control
-- Attendee flow design support and on-site enforcement
-- Audiovisual production for multi-day storytelling and promotion
-
-**Outcome focus:** smooth show-floor operations, consistent programming delivery, strong brand experience
+- **Half Moon Festival – Thailand**: Official Electric Animals showcase at one of Asia's most iconic electronic music festivals.
+- **El Salvador Showcase**: Curated Electric Animals showcase introducing the brand's production and artistic identity to a new Central American market.
+- **Europe Expansion**: Upcoming showcases in key global electronic music hubs: Madrid and Amsterdam.
 
 ---
 
-### Blockchain Jungle
+## Headline Artists & Key Performances
 
-**Category:** Conference Execution, Speaker Ops & Technical Production
+Electric Animals has hosted and collaborated with some of the most respected names in global electronic music, including:
 
-**Summary:** Blockchain Jungle is a multi-stakeholder conference environment requiring precise timing, speaker management, and reliable technical production. XR Studio runs the operational backbone—ensuring sessions, stages, and show flow execute cleanly for partners, speakers, and attendees.
-
-**XR Studio scope:**
-- Conference production and stage management
-- Speaker operations, schedules, and backstage coordination
-- Technical execution (A/V, lighting, screens) with redundancy mindset
-- Front-of-house operations and attendee experience control
-- Post-event reporting and optimization insights
-
-**Outcome focus:** zero-friction conference flow, reliable stage execution, professional stakeholder experience
+- Carl Cox
+- John Digweed
+- Paco Osuna
+- The Martinez Brothers
+- Nick Warren
+- Padre Guilherme
+- Dennis Cruz
+- Sasha
 
 ---
 
-### Magflow
+## Artists We've Worked With
 
-**Category:** Event Production Support & Audiovisual Capture
+### International Artists (A–Z)
 
-**Summary:** Magflow is a culture and music platform that translates into live experiences and content-driven programming. XR Studio supports execution with production discipline and captures content designed to extend impact beyond event day.
+Aaron Suiss · Adi Dassler · Akrilla · Alan Nieves · Alex Galvan · Andre Gazolla · Andre Silva · Archie Hamilton · Armen Miran · Brian Cid · Brigado Crew · Boho · Boza · Bushman · Caballero · Calussa · Carbon · Carl Cox · Carlo Lio · Christian Craken · Danito y Athina · Darin Epsilon · Dave Seaman · Dimmish · Dosem · eCost · Deer Jade · Dennis Cruz · Dennis Ferrer · Editek · Eelke Kleijn · Enamour · Eze Ramirez · Fatima Hajji · Facundo Mohrr · Hannes Bieger + Orquesta Filarmónica de Costa Rica · Guy J · Hot Tuneik · Iglesias · Innellea · James Zabiela · Jerome Isma-ae · John Digweed · Jordan Gill · Josh Wink · Kasia · Kinahau · Korolova · Lee Ann Roberts · Lee Foss · Lee Reynolds · Luke Hunter · Marco Faraone · Maksim Dark · Marcus Meinhardt · Max Chapman · Matan Caspi · Matador · Melanie Ribbe · Miguelle and Tons · Mikey Lion · Morttagua · Nicole Moudaber · Nina Alanis · Nick Warren · Nislo Rudas · Opiuo · Oscar Duque · Oliver Huntemann · Out of Mind · Padre Guilherme · Paco Osuna · Paige · Pig and Dan · Pilato · Phoenix Movement · R Wild · Rafa Barrios · Reinier Zonneveld · Ricardo Farhat · Rodriguez Jr · Sainte Vie · Sasha · Sebastian Ledher · Sebastian Léger · Shermanology · Space 92 · Sol · Stan Kolev · Stereo Express · Tara Brooks · Technasia · The Martinez Brothers · Tommahawk · Toni Varga · Township Rebellion · Treavor Moontribe · Victor Ruiz · Viviana Casanova · Ubbah
 
-**XR Studio scope:**
-- Production planning and live execution support
-- Technical coordination scaled to venue and format
-- Audiovisual production for episodic and promotional use
-- Operational staffing and onsite control as required
+### Regional Artists (A–Z)
 
-**Outcome focus:** consistent delivery, high-quality content assets, repeatable formats
+Aizen · Alel · Alex Orias · Alux · Bearhug · Bosque · Brenda Segura · Bunny Wabbit · Caliope · Catkash · Ces Castro · Crocodile Time · Chisco Alvarado · Cyn Vassell De Sostoa · Diana Vásquez · Dio · Double Trouble · Fabula · Fercho Salazar · Funka · Gabo Hernández · Gaby Martinez · Graci Martínez · Heilyn · Heri Gomez · Ignacia Téllez · Javier Portilla · Jean Gabriel · Kevin York · Kim Cou · La Virgen · Le Roi Carmona · Luis Ordeñana · Lexar · Luxar · Lua · Majo Mushi · Marcos Zavala · Marcus Nordmann · Maria Wabe · Mel Souler · Mora Mush · NIM · Obzeen · Ricardo Argomaniz · Ricardo Ibarra · Richard Salazar · Salim · Santos · Sergio Xruz · SLA · Sonic-G · Tekes · Tunnels · Vicher · Wizard · Yohan Kalev · Yohan Vindas · Zeit · Zurdo
 
 ---
 
-### Sweetspot
+## Showcases & Brand Representations
 
-**Category:** Esports Event Operations & Competitive Production
+- Desert Hearts
+- Elrow
+- Now Here
+- Senso Sounds
+- The Soundgarden
 
-**Summary:** Sweetspot competitions require a different type of precision: competitive integrity, technical reliability, and audience-ready execution. XR Studio operates events with structured workflows—ensuring brackets, timing, production cues, and onsite experience run smoothly.
+---
 
-**XR Studio scope:**
-- Esports event operations and run-of-show execution
-- Stage/stream coordination and timing discipline
-- Onsite logistics for players, staff, and audience
-- Technical production alignment for live viewing experience
-- Reporting loops to improve future tournaments
+## Media & Content
 
-**Outcome focus:** reliable competitive operations, clean execution, scalable tournament delivery
+Electric Animals places strong emphasis on audiovisual storytelling and digital presence. Each event generates high-end content for global distribution and long-term brand positioning, including aftermovies, live recordings, artist interviews, behind-the-scenes content, professional photography, and integrated brand assets.
+
+---
+
+## Event Calendar
+
+| Date | Event |
+|------|-------|
+| February 13 | Elrow |
+| April 11 | Electric Animals Fest |
+| October 10 | Electric Animals Showcase · Madrid |
+| October 23 | Electric Animals Showcase · Amsterdam |
+| October 31 | Electric Animals Halloween Fest |
+| November 28–29 | Oneiro Festival |
+| December 31 | Electric Animals New Year's Eve Party |
+
+---
+
+## Closing
+
+Electric Animals stands as a benchmark for electronic music production in Central America, defined by a flawless zero-cancellation track record, carbon-neutral events, world-class venues, and a growing international footprint. From Costa Rica to the world, the brand continues to connect cultures through music, experience, and uncompromising quality.
