@@ -11,9 +11,11 @@ Electric Animals is defined by uncompromising production standards, meticulous a
 ## Vision & Mission
 
 ### Vision
+
 To position Electric Animals as a globally recognized electronic music brand representing Latin America on the world stage through world-class festivals, showcases, and cultural collaborations.
 
 ### Mission
+
 To create unforgettable electronic music experiences through top-tier production, curated lineups, and meaningful partnerships with artists, brands, and cultural institutions, while strengthening regional creative ecosystems.
 
 ---
@@ -111,15 +113,15 @@ Electric Animals places strong emphasis on audiovisual storytelling and digital 
 
 ## Event Calendar
 
-| Date | Event |
-|------|-------|
-| February 13 | Elrow |
-| April 11 | Electric Animals Fest |
-| October 10 | Electric Animals Showcase · Madrid |
-| October 23 | Electric Animals Showcase · Amsterdam |
-| October 31 | Electric Animals Halloween Fest |
-| November 28–29 | Oneiro Festival |
-| December 31 | Electric Animals New Year's Eve Party |
+| Date           | Event                                 |
+| -------------- | ------------------------------------- |
+| February 13    | Elrow                                 |
+| April 11       | Electric Animals Fest                 |
+| October 10     | Electric Animals Showcase · Madrid    |
+| October 23     | Electric Animals Showcase · Amsterdam |
+| October 31     | Electric Animals Halloween Fest       |
+| November 28–29 | Oneiro Festival                       |
+| December 31    | Electric Animals New Year's Eve Party |
 
 ---
 
